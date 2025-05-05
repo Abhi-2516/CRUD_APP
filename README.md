@@ -21,3 +21,7 @@ node server.js
 cd client
 npm install
 npm start
+```
+##UI
+![App Screenshot](UI.png)
+
